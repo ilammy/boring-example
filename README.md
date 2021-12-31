@@ -1,8 +1,13 @@
 # BoringSSL example
 
+Using `boring` crate from iOS application.
+
 1. Checkout
    ```
-   TODO
+   git clone git@github.com:ilammy/boring-example.git
+   cd boring-example
+   git submodule init
+   git submodule update
    ```
 2. Install Rust toolchains for iOS
    ```
